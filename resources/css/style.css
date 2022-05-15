@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.Download-Excursion {
+    text-align: center;
+    
+}
+.Download-Excursion a {
+    color: aquamarine;
+}
