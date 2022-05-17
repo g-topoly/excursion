@@ -23,3 +23,15 @@ h1 {
 main {
     padding-top: 20px;
 }
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+footer p {
+    display: flex;
+    text-align: center;
+    justify-content: end;
+}
